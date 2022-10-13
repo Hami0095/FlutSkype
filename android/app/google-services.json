@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "374902989754",
+    "project_id": "flutskype",
+    "storage_bucket": "flutskype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374902989754:android:1d622fcaeb2bd2c4b1f383",
+        "android_client_info": {
+          "package_name": "com.example.skype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374902989754-jqaesu1bmk22ic58ibnmem1ktffnrjtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skype",
+            "certificate_hash": "7a8b846f2a837557a6d32785eac683ca5e760327"
+          }
+        },
+        {
+          "client_id": "374902989754-gmbldo485nj552srqpcqbl9v4hp3ikts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-_WuBUnBc7YPSyb4b9s-yBzIuJtP5l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374902989754-gmbldo485nj552srqpcqbl9v4hp3ikts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374902989754-7uvckq2usk61mr0b67g88hqb778stcej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.skype"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
